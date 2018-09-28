@@ -5,7 +5,7 @@ Bitconnect Coin is a secure and energy efficient PoW/PoS coin. Bitconnect Coin u
 
 Maximum 28 million BitConnect coin will ever exist to the community.
 
-bitconnect coin adopt a variable PoS rate that will be given periodically payout as per following list,
+bitconnect coin adopt a variable PoS (Proof of Stake) rate that will be given periodically payout as per following list,
 - 1st 6 months -> 60% (10% per month)
 - 2nd 6 months -> 50% (8% per month)
 - Block Reward Halving @ Block 280,000
@@ -16,10 +16,10 @@ bitconnect coin adopt a variable PoS rate that will be given periodically payout
 - Block rewards will halve each 280,000 blocks
 
 #How are they used?
-The BitConnect coins are used by bitconnect community members for bitconnect services and to store and invest the wealth in a non-government controlled currency. The BitConnect coins will also be used  as payment system on number of BitConnect partner websites.
+BitConnect coins can be used for any free market product or service.
 
 #How are they produced?
-BitConnect coin uses a special algorithm called the POW/POS to secure the BitConnect Coin network. The moment you acquire BitConnect Coin it becomes an interest bearing asset with 120% return per year through PoS minting. All you have to do to earn with this method is to hold coins in your Bitconnect-QT wallet. In addition to PoS minting, BitConnect coin can be mined with CPU/GPU and does not need an ASIC miner like Bitcoin does.
+BitConnect coin uses a special algorithm called the PoS (Proof of Stake) to secure the BitConnect Coin network. The moment you acquire BitConnect Coin it can grow in total amount through PoS minting as per the chart above. All you have to do to earn with this method is to hold coins in your Bitconnect-QT wallet.
 
 #Download Wallet
 <b>HOW TO SET UP BITCONNECT COIN WALLET ON WINDOWS OPERATING SYSTEM?</b>
