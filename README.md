@@ -8,10 +8,12 @@ Maximum 28 million BitConnect coin will ever exist to the community.
 bitconnect coin adopt a variable PoS rate that will be given periodically payout as per following list,
 - 1st 6 months -> 60% (10% per month)
 - 2nd 6 months -> 50% (8% per month)
-- 3rd 6 months -> 40% (7% per month)
-- 4th 6 months -> 30% (5% per month)
-- 5th 6 months -> 20% (3% per month)
-- 6th 6 months -> 10% (1.4 per month and ongoing.)
+- Block Reward Halving @ Block 280,000
+- 3rd 6 months -> 40% (3.5% per month)
+- 4th 6 months -> 30% (2.5% per month)
+- 5th 6 months -> 20% (1.5% per month)
+- 6th 6 months -> 10% (0.7% per month and ongoing.)
+- Block rewards will halve each 280,000 blocks
 
 #How are they used?
 The BitConnect coins are used by bitconnect community members for bitconnect services and to store and invest the wealth in a non-government controlled currency. The BitConnect coins will also be used  as payment system on number of BitConnect partner websites.
