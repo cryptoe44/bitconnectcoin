@@ -6,14 +6,12 @@ Bitconnect Coin is a secure and energy efficient PoS (Proof of Stake) coin. Bitc
 Maximum 28 million BitConnect coin will ever exist to the community.
 
 bitconnect coin adopt a variable PoS (Proof of Stake) rate that will be given periodically payout as per following list,
-- 1st 6 months -> 60% (10% per month)
-- 2nd 6 months -> 50% (8% per month)
-- Block Reward Halving @ Block 280,000
-- 3rd 6 months -> 40% (3.5% per month)
-- 4th 6 months -> 30% (2.5% per month)
-- 5th 6 months -> 20% (1.5% per month)
-- 6th 6 months -> 10% (0.7% per month and ongoing.)
-- Block rewards will halve each 280,000 blocks
+- 1st 6 months -> 60% Per Year rate (5.0% per month)
+- 2nd 6 months -> 50% Per Year rate (4.1% per month)
+- 3rd 6 months -> 40% Per Year rate (3.5% per month)
+- 4th 6 months -> 30% Per Year rate (2.5% per month)
+- 5th 6 months -> 20% Per Year rate (1.5% per month)
+- 6th 6 months -> 10% Per Year rate (0.7% per month and ongoing.)
 
 #How are they used?
 BitConnect coins can be used for any free market product or service.
